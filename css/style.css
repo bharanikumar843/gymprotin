@@ -1,0 +1,47 @@
+.name{
+    color: yellowgreen;
+}
+.font{
+    font-family: "Poppins", serif;
+}
+.para{
+    width: 30%;
+    color: rgb(140, 218, 63, 1);
+    font-size: 55px;
+    line-height: 1.1em;
+}
+.para1{
+    width: 25%;
+    
+}
+.nnn{
+    background-color: rgb(12, 23, 43);
+}
+.img1{
+
+    float: right;
+    margin-top: -240px;
+    width: 450px;
+
+}
+.h1{
+    color: rgb(140, 218, 63, 1);
+}
+
+.img2{
+
+    float: right;
+    margin-top: -390px;
+    width: 450px;
+
+}
+.para3{
+    color: rgb(247, 247, 247); 
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+input{
+    background-color: greenyellow;
+}
+
